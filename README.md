@@ -21,11 +21,10 @@ update files of CLL
     import os
     from os import path
     import time
-    #######PIP요구 시 이곳에 작성
+    #PIP요구 시 이곳에 작성
     
     #os.system()
     
-    ############################
     
     #
     #옮길 파일들 이곳에 작성
