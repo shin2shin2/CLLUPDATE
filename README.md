@@ -16,7 +16,7 @@ update files of CLL
 --------------------------------------
 #작성예시
 
-"""
+
     import shutil
     import os
     from os import path
@@ -66,5 +66,5 @@ update files of CLL
     time.sleep(1)
     os.remove('findme.py')
 
-"""
+
 
