@@ -12,7 +12,7 @@ import time
 #옮길 파일들 이곳에 작성
 #
 file1 = 'hello.py'
-direc1 = './asdf'
+direc1 = './cogs'
 all1 = direc1+ '/'+ file1
 print(all1)
 #
